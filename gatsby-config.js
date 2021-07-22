@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/eBetcel-portfolio/",
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
